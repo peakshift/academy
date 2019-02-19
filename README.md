@@ -10,5 +10,5 @@ _Introduction to Programming and Blockchain Education._
 ### Work Shops
 #### Blockchain & Smart Contracts
 1. Introduction to Programming with Smart Contracts
-2. Interacting with the Blockchain with Python
+2. Interacting with the Blockchain using Python
 3. Building a Chatbot
